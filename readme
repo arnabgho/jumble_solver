@@ -1,0 +1,5 @@
+This is a jumbled word solving program , written primarily to help my mother 
+
+compile it as g++ -std=gnu++0x jumble_solver.cpp -o jumble_solver
+
+Run it as ./jumble_solver _____________ <- the word to be unjumbled
